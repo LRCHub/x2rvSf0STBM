@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ダンスホール",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T08:01:32.067451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/01_ワールズエンド・ダンスホール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka feat. 初音ミク & 巡音ルカ",
+      "has_synced": true,
+      "path": "select/02_ワールズエンド・ダンスホール_wowaka_feat._初音ミク_&_巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "初音ミク・巡音ルカ",
+      "has_synced": true,
+      "path": "select/03_ワールズエンド・ダンスホール_初音ミク・巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール dexholic mix",
+      "artist": "dixie flatline×wowaka",
+      "has_synced": false,
+      "path": "select/04_ワールズエンド・ダンスホール_dexholic_mix_dixie_flatline×wowaka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール dexholic mix",
+      "artist": "Dixie Flatline",
+      "has_synced": false,
+      "path": "select/05_ワールズエンド・ダンスホール_dexholic_mix_Dixie_Flatline.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール -MIKUNOPOLIS in LOS ANGELES Live-",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/06_ワールズエンド・ダンスホール_-MIKUNOPOLIS_in_LOS_ANGELES_Live-_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダンスホール",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/07_ダンスホール_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/08_ワールズエンド・ダンスホール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka (現実逃避P)",
+      "has_synced": true,
+      "path": "select/09_ワールズエンド・ダンスホール_wowaka_(現実逃避P).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "wowaka 『ワールズエンド・ダンスホール』feat. 初音ミク＆巡音ルカ",
+      "artist": "ヒトリエ / wowaka",
+      "has_synced": true,
+      "path": "select/10_wowaka_『ワールズエンド・ダンスホール』feat._初音ミク&巡音ルカ_ヒトリエ___wowaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/11_ワールズエンド・ダンスホール_wowaka.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka (現実逃避P) Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_ワールズエンド・ダンスホール_wowaka_(現実逃避P)_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ワールドエンド・ダンスホール　dexholic mix",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/13_ワールドエンド・ダンスホール_dexholic_mix_wowaka.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/14_ワールズエンド・ダンスホール_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダンスホール",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/15_ダンスホール_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ダンスホール - Dance Hall",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/16_ダンスホール_-_Dance_Hall_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンスホール",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ダンスホール_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
